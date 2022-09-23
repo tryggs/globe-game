@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://i.pinimg.com/originals/f6/15/74/f615740d8ec75ad36e322ecd9da8b129.gif");
+    background-repeat: repeat;
+    background-size:cover;
+    background-color: black;
+    color: white;
+}
+
+.water-error{
+    color: #D6413E
+}
